@@ -1,0 +1,64 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas de entornos de desarrollo
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependencias y paquetes
+node_modules/
+vendor/
+*.log
+
+# Archivos compilados y de construcción
+dist/
+build/
+*.class
+*.jar
+*.war
+
+# Archivos de configuración local
+.env
+.env.local
+config.local.js
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
+
+# Archivos de caché
+.cache/
+.sass-cache/
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos de registro
+logs/
+*.log
+
+# Archivos específicos del lenguaje o framework (ejemplos)
+# Python
+__pycache__/
+*.py[cod]
+
+# Java
+*.class
+*.jar
+
+# JavaScript
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ruby
+*.gem
+*.rbc
+
+# Otros
+*.sqlite

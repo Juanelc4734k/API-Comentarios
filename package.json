@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0"
+  },
+  "name": "apicomentarios",
+  "version": "1.0.0",
+  "description": "\"# API-Comentarios\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
